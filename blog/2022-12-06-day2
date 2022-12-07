@@ -1,0 +1,15 @@
+---
+slug: intro-day2
+title: Day 2 of Intro to Programming
+author: Steven Eler
+tags: [Training, DotNet]
+---
+
+Today, we learned a lot about a few topics:
+    - Data Types
+        -Learned about the difference between Value Types and Reference Types
+            -Stack vs. Heap
+        -Finally found out the usefulness of the "var" type instead of specifying data types every time
+    - Classes and Encapsulation
+        - Learned several helpful shortcuts on how to quickly set up different classes with methods used elsewhere to create abstraction
+        - Got useful insight into Test-Driven Development and how to use a "meaningfully" failing test as a good jumping off point
